@@ -1,0 +1,1 @@
+__all__ = ["ciagi_arytmetyczne.py", "ciagi_geometryczne.py"]
